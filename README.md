@@ -34,4 +34,4 @@ def isHappy(n):
 >```
 >+ Inspects container and extracts mount points.
 > ### Outputs
->
+>>![output.png](opensource_week_5_2020311233.png)
